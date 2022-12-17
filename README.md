@@ -8,3 +8,7 @@
 - [ ]  Condicionais (if/else, switch).
 - [ ]  Aprendi sobre funções.Função Math().
 - [ ]  Template strings/literals e Object Literals.
+
+## DEPLOY ##
+https://gleicebsouza.github.io/jogo-adivinhacao-stage-05/
+<br>
