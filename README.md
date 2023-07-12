@@ -10,5 +10,5 @@
 - [x]  Template strings/literals e Object Literals.
 
 ## DEPLOY ##
-https://gleicebsouza.github.io/jogo-adivinhacao-stage-05/
+http://gleice.dev/owner-jogo-adivinhacao-stage-05/
 <br>
